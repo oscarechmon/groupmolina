@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www.tusitio.com/index.html</loc>
+    </url>
+    <url>
+        <loc>http://www.tusitio.com/nosotros.html</loc>
+    </url>
+    <url>
+        <loc>http://www.tusitio.com/servicios.html</loc>
+    </url>
+    <url>
+        <loc>http://www.tusitio.com/clientes.html</loc>
+    </url>
+    <url>
+        <loc>http://www.tusitio.com/contacto.html</loc>
+    </url>
+    <!-- Agrega más entradas "url" para otras páginas de tu sitio -->
+</urlset>
